@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Github followers]https://img.shields.io/github/followers/yashendra-gupta?color=green&label=Followers&logo=Github)](https://github.com/yashendra-gupta?tab=followers)
+[![Github followers](https://img.shields.io/github/followers/yashendra-gupta?color=green&label=Followers&logo=Github)](https://github.com/yashendra-gupta?tab=followers)
 
 
 [Labs](https://github.com/stars/yashendra-gupta/lists/labs)
