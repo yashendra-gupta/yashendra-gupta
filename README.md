@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Github followers](https://img.shields.io/github/followers/yashendra-gupta?style=social)](https://github.com/yashendra-gupta?tab=followers)
+
+
 [Labs](https://github.com/stars/yashendra-gupta/lists/labs)
 
 <!--
