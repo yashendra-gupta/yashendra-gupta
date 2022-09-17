@@ -3,8 +3,6 @@
 [![Github followers](https://img.shields.io/github/followers/yashendra-gupta?color=teal&label=Followers&logo=Github)](https://github.com/yashendra-gupta?tab=followers)
 
 
-[Labs](https://github.com/stars/yashendra-gupta/lists/labs)
-
 <!--
 **yashendra-gupta/yashendra-gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
